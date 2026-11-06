@@ -1,0 +1,8 @@
+{
+  "name": "Project and Task Management",
+  "description": "Full-stack MERN Project and Task Management system with role-based access control, task workflows, comments, overdue tracking, and project progress reports.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
